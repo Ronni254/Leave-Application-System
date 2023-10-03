@@ -1,0 +1,6 @@
+[23-May-2023 09:47:23 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/komfy/sandbox.komfycollect.com/employees/leave-history.php on line 271
+[23-May-2023 14:03:35 UTC] PHP Parse error:  syntax error, unexpected token "exit" in /home/komfy/sandbox.komfycollect.com/employees/leave.php on line 21
+[23-May-2023 14:03:52 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/komfy/sandbox.komfycollect.com/employees/leave.php on line 175
+[23-May-2023 14:03:54 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/komfy/sandbox.komfycollect.com/employees/leave.php on line 175
+[23-May-2023 14:03:55 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/komfy/sandbox.komfycollect.com/employees/leave.php on line 175
+[23-May-2023 14:04:00 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/komfy/sandbox.komfycollect.com/employees/leave.php on line 175
